@@ -2,6 +2,6 @@
 
 int main()
 {
-    // @TODO: print a sentence you want.
+    printf("This is Cute. I like this. I want this inside of me.");
     printf("Hello, world!\n");
 }

@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("This is Cute. I like this. I want this inside of me. Hmm");
+    printf("I like this. This is cute. I want this inside of me. Oh yeah. That's good. Kinda funny aftertaste though.");
     printf("Hello, world!\n");
 }
